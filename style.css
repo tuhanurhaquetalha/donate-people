@@ -46,7 +46,7 @@
     text-align: center;
     padding: 40px;
     ;
-    margin-left: ;
+    
 
 
 }
@@ -70,4 +70,17 @@
     text-align: center;
     padding: 40px;
     display: flex;
+}
+
+
+.all{
+    display: flex;
+    text-align: left;
+}
+.donate1{
+    text-align: center;
+    padding: 100px;
+}
+.back{
+    background-color: wheat;
 }
