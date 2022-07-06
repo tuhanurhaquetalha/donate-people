@@ -1,0 +1,29 @@
+.full-width {
+
+
+
+    background-image: cover;
+    background-image: url(images/donation6.jpg);
+    background-size: 100%;
+
+
+}
+
+.middle {
+
+    text-align: center;
+    color: ;
+    padding: 100px;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+
+}
