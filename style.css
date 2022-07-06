@@ -84,3 +84,48 @@
 .back{
     background-color: wheat;
 }
+.depend{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+}
+.lives1{
+    display: flex;
+    padding-top: 5%;
+    
+}
+.half-width{
+    width:50%
+    
+   
+   
+    
+    display:flex
+}
+.half-width img{
+ width: 70%;
+ height: 70%;
+ 
+}
+.last-part{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+}
+.beside image{
+    width: 20px;
+    height: 10px;
+
+}
