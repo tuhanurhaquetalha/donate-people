@@ -27,3 +27,39 @@
     font-weight: 700;
 
 }
+
+.donate {
+    padding: 100px;
+    text-align: center;
+}
+
+.adjust {
+    display: flex;
+    text-align: center;
+
+    margin-left: 35%;
+    margin-top: 0%;
+}
+
+.adjust1 {
+    display: flex;
+    text-align: center;
+    padding: 40px;
+    ;
+    margin-left: ;
+
+
+}
+.color{
+    border: 0.5px solid red;
+    padding: 5px 4px;
+    border-radius: 5px;
+}
+.link-button1{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+}
