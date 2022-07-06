@@ -63,3 +63,11 @@
     background-image: linear-gradient(orange, tomato);
     font-weight: 700;
 }
+.difference{
+    color: orangered;
+}
+.plane{
+    text-align: center;
+    padding: 40px;
+    display: flex;
+}
