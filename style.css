@@ -1,3 +1,6 @@
+body{
+    font-family: 'Gulzar', serif;
+}
 .full-width {
 
 
@@ -12,7 +15,7 @@
 .middle {
 
     text-align: center;
-    color: ;
+    color:white ;
     padding: 100px;
 
 
@@ -83,6 +86,7 @@
 }
 .back{
     background-color: wheat;
+    border-radius: 5px;
 }
 .depend{
     text-decoration: none;
@@ -93,12 +97,13 @@
     font-weight: 700;
 }
 .lives1{
-    display: flex;
+    display: ;
     padding-top: 5%;
     
 }
 .half-width{
     width:50%
+    border: 3px;
     
    
    
@@ -110,22 +115,36 @@
  height: 70%;
  
 }
-.last-part{
-    display: flex;
-    padding-left: 10%;
-    padding-right: 5%;
-    padding-top: 5%;
+.update{
+   
+    text-align: center;
+
 }
-.button{
+.fit{
+    text-align: center;
+    padding-top: 3%;
+    background-color: aqua ;
+    
+    
+ 
+}
+.perfect{
     text-decoration: none;
     color: white;
     padding: 10px 40px;
     border-radius: 5px;
     background-image: linear-gradient(orange, tomato);
-    font-weight: 700;
+    
 }
-.beside image{
-    width: 20px;
-    height: 10px;
-
+.foot{
+    text-align: center;
+    padding-top: 5%;
+    background-color: black; 
+}
+.change{
+    color:orangered ;
+    
+}
+.change-color{
+    color:white
 }
